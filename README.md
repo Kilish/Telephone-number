@@ -7,6 +7,7 @@ import java.util.regex.Pattern;
 /* 
 Проверка номера телефона
 */
+<code>
 public class Solution {
     public static void main(String[] args) {
 		System.out.println(checkTelNumber("+380501234567")); //true
